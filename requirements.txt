@@ -1,0 +1,6 @@
+joblib
+sklearn
+jupyter
+notebook
+voila==0.1.23
+voila-hover
